@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqalLUwvQ0QvtT8rxyUAVcLePpec8gykqu6uv94MJsojLITKYr9E8BWJUZ7lHd8glJbwibc538keSeFiMRWbEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Devesh\\source\\repos\\AttendanceWebApi\\AttendanceWebApi\\AttendanceWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devesh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Devesh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Devesh\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Devesh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Devesh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Devesh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
